@@ -1,0 +1,29 @@
+# ======== BACKEND (.NET API) ========
+backend/backend/bin/
+backend/backend/obj/
+backend/backend/.vs/
+backend/backend/*.user
+backend/backend/*.suo
+backend/backend/*.cache
+backend/backend/*.log
+
+# Do NOT commit dev settings
+backend/backend/appsettings.Development.json
+backend/backend/secrets.json
+
+# ======== FRONTEND (React / TS / Vite) ========
+frontend/node_modules/
+frontend/dist/
+frontend/.next/
+frontend/.turbo/
+frontend/.parcel-cache/
+frontend/.eslintcache
+
+# ======== GENERAL ========
+*.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+.env
+.env.local
+.env.*.local
