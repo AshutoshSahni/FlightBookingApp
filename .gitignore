@@ -1,7 +1,7 @@
 # ======== BACKEND (.NET API) ========
 backend/backend/bin/
 backend/backend/obj/
-backend/backend/.vs/
+backend/.vs/
 backend/backend/*.user
 backend/backend/*.suo
 backend/backend/*.cache
